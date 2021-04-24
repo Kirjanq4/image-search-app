@@ -1,3 +1,6 @@
+# A simple Image Search App done with React, Tailwind and Pixabay API
+## [Live Demo](https://image-search-app-tau.vercel.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
